@@ -1,5 +1,9 @@
 # Calculator Project
 
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Active-success.svg)
+
 This is a simple calculator application developed using Visual Studio Code. The calculator performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ## Features
